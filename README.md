@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, eu sou o [felipe]! 👋
 
-<!--
-**Felipetc-dev/Felipetc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software** apaixonado por tecnologia, com foco em **Análise de Dados, Inteligência Artificial, Machine Learning e MLOps**. Meu objetivo é transformar dados brutos em insights e construir sistemas inteligentes escaláveis em produção.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim:
+- 🎓 Atualmente cursando Engenharia de Software.
+- 📈 Especialista em investigar dados, estruturar pipelines e aplicar Machine Learning.
+- 🛠️ Buscando oportunidades de estágio ou projetos na área de Dados, IA e MLOps.
+
+### 💻 Minha Stack Tecnológica:
+- **Linguagens:** Python, SQL, JavaScript
+- **Análise de Dados & Visualização:** Pandas, NumPy, Matplotlib, Seaborn, Power BI / SQL
+- **IA & Machine Learning:** Scikit-Learn, PyTorch, LangChain, Modelos de Linguagem (LLMs)
+- **Engenharia & MLOps:** Docker, FastAPI, Git / GitHub, AWS (Conceitos), CI/CD
+
+--- 
