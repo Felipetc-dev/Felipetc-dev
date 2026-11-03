@@ -32,6 +32,17 @@ Estudante de **Engenharia de Software** focado em **Análise de Dados, Bancos de
 
 ---
 
+## 📂 Portfólio & Projetos Práticos
+
+Confira meus exercícios, projetos acadêmicos e atividades práticas documentadas diretamente no repositório principal:
+
+- 🔗 **[Acessar Repositório de Atividades & Portfólio](https://github.com/Felipetc-dev/Felipetc-dev/tree/main)**
+  - Documentação de códigos em Python e C.
+  - Exercícios de Modelagem de Banco de Dados e SQL.
+  - Projetos práticos e desafios de desenvolvimento.
+
+---
+
 ## 🛠️ Minha Stack Tecnológica
 
 <div align="center">
@@ -60,15 +71,6 @@ Estudante de **Engenharia de Software** focado em **Análise de Dados, Bancos de
 - 📖 **Bancos de Dados:** Praticando modelagem relacional e consultas complexas em **SQL**.
 - 🤖 **Bootcamp Ativo:** *DXC - IA do Zero ao Primeiro Agente* (DIO) — criando fluxos autônomos de IA.
 - ☁️ **Infraestrutura:** Consolidando conceitos de **AWS** (EC2, CloudWatch e Auto Scaling) aplicados ao desenvolvimento.
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Felipetc-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipetc-dev&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
 
 ---
 
