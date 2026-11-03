@@ -36,7 +36,7 @@ Estudante de **Engenharia de Software** focado em **Análise de Dados, Bancos de
 
 Confira meus exercícios, projetos acadêmicos e atividades práticas documentadas diretamente no repositório principal:
 
-- 🔗 **[Acessar Repositório de Atividades & Portfólio](https://github.com/Felipetc-dev/Felipetc-dev/tree/main)**
+- 🔗 **[Acessar Repositório de Atividades & Portfólio]([https://github.com/Felipetc-dev/Felipetc-dev/tree/main)](https://github.com/Felipetc-dev/Felipetc-dev/tree/main/atividade02-criptografia)**
   - Documentação de códigos em Python e C.
   - Exercícios de Modelagem de Banco de Dados e SQL.
   - Projetos práticos e desafios de desenvolvimento.
