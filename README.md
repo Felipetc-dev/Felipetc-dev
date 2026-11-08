@@ -16,7 +16,7 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## ⟦ TRANSMISSÃO ⟧
+## ⟦ SOBRE MIM ⟧
 
 > 
 
