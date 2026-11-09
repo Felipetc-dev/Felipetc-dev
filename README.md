@@ -15,6 +15,7 @@
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%" />
+<br> <img src="assets/footer.svg" alt="Transmissão aberta: buscando estágio em Dados, IA e Desenvolvimento de Software" width="100%" />
 
 ## ⟦ SOBRE MIM ⟧
 
@@ -90,6 +91,5 @@ Estudante de **Engenharia de Software** focado em **Análise de Dados, Bancos de
 
 <br>
 
-<img src="assets/footer.svg" alt="Transmissão aberta: buscando estágio em Dados, IA e Desenvolvimento de Software" width="100%" />
 
 </div>
